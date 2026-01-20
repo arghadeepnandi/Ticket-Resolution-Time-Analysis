@@ -1,20 +1,8 @@
 Ticket Resolution Time Analysis
+
 ⏱️ Support Analytics | Python | Survival Analysis | Data Science
 🎯 Predict Ticket Resolution Times with Survival Analysis
 View Notebook • Report Bug • Request Feature
-
-📋 Table of Contents
-
-About The Project
-Features
-Built With
-Installation
-Usage
-Methodology
-Results
-Project Structure
-Contributing
-Contact
 
 
 🎯 About The Project
@@ -22,6 +10,7 @@ A Ticket Resolution Time Analysis System powered by Survival Analysis that predi
 💡 Project Objective:
 
 "I modeled ticket resolution as a time-to-event problem, where the event is ticket closure, and open tickets are treated as censored data."
+
 
 Key Analysis Factors:
 
@@ -562,7 +551,9 @@ Ideas for Contribution:
 
 📞 Contact
 Your Name - Arghadeep Nandi
+
 LinkedIn - inkedin.com/in/arghadeep-nandi-159523252/
+
 Project Link: https://github.com/arghadeepnandi/Ticket-Resolution-Time-Analysis
 
 📜 License
