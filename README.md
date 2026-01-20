@@ -552,7 +552,7 @@ Ideas for Contribution:
 📞 Contact
 Your Name - Arghadeep Nandi
 
-LinkedIn - inkedin.com/in/arghadeep-nandi-159523252/
+LinkedIn - https://www.linkedin.com/in/arghadeep-nandi-159523252/
 
 Project Link: https://github.com/arghadeepnandi/Ticket-Resolution-Time-Analysis
 
